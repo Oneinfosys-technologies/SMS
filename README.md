@@ -1,44 +1,17 @@
-InstiKit Premium - Most Comprehensive School ERP Solution
-Release Date    : 13 July 2018
-Author          : ScriptMint
-Author Email    : hello@scriptmint.com
-Skype           : ScriptMint
-Website         : https://scriptmint.com
-Support         : http://scriptmint.com
-Product Website : https://instikit.com
-Demo            : https://demo.instikit.com
-
-### License
-
-The license term allows the licensee (buyer) to use the script as:
-
-## Regular License
-
-ScriptMint offers the following license terms to use the script:
-
-* Non-exclusive, non-transferable, lifetime license.
-* Permits hosting a single instance of the script on your server.
-* Permits customization of the website to meet your specific requirements.
-* Grants access to updates and support during the valid support period.
-
-## Extended License
-
-ScriptMint offers the following license terms to use the script:
-
-* Non-exclusive, non-transferable, lifetime license.
-* Permits hosting multiple instances of the script on your server.
-* Permits customization of the website & other parts of the script to meet your specific requirements.
-* Grants access to updates and support during the valid support period.
+OneInfoSys Technologies - Most Comprehensive School ERP Solution
+Release Date    : 13 September 2024
+Author          : OneInfoSys Technologies
+Author Email    : School-wing@oneinfosys.com
+Website         : https://oneinfosys.com
+Support         : http://oneinfosys.com/contact
+Product Website : https://school.oneinfosys.com
+Demo            : https://school.oneinfosys.com
 
 ## Restrictions
 
 * Prohibits for re-selling, sub-licensing, or redistribution, even if offered for free.
 * Prohibits from uploading or sharing the script publicly
 * Prohibits creating derivative works, superficial copies, or "as-is" versions of the script for the purpose of selling or distributing them
-
-### Installation
-
-To check installation video, please visit https://www.youtube.com/watch?v=NkQHFDtbpC4
 
 ### Support
 
