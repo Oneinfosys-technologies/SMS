@@ -15,11 +15,11 @@ Demo            : https://school.oneinfosys.com
 
 ### Support
 
-For any kind of support please raise ticket at http://scriptmint.com/helpdesk/articles
+For any kind of support please raise ticket at http://oneinfosys.com/contact
 
 ### Security
 
-For any kind of support/suggestion/bug or security report please send email to hello@scriptmint.com
+For any kind of support/suggestion/bug or security report please send email to hello@oneinfosys.com
 
 ### Version Log
 
