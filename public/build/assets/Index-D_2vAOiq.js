@@ -1,0 +1,1 @@
+import{q as s,w as a,r as o,o as c,e as i}from"./app-DCfJDSeM.js";const r={name:"MessConfig"},u=Object.assign(r,{setup(_){const e=[{name:"MessConfigGeneral",icon:"fas fa-cogs",label:"config.config"}];return(f,l)=>{const n=o("router-view"),t=o("ModuleConfig");return c(),s(t,{navigations:e},{default:a(()=>[i(n)]),_:1})}}});export{u as default};

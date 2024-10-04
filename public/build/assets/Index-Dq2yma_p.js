@@ -1,0 +1,1 @@
+import{q as a,w as r,r as o,o as c,e as s}from"./app-DCfJDSeM.js";const i={name:"InventoryConfig"},u=Object.assign(i,{setup(_){const e=[{name:"InventoryConfigGeneral",icon:"fas fa-chevron-right",label:"config.config"}];return(f,l)=>{const n=o("router-view"),t=o("ModuleConfig");return c(),a(t,{navigations:e},{default:r(()=>[s(n)]),_:1})}}});export{u as default};

@@ -1,0 +1,1 @@
+import{q as t,w as s,r as o,o as c,e as i}from"./app-DCfJDSeM.js";const r={name:"ExamConfig"},m=Object.assign(r,{setup(_){const e=[{name:"ExamConfigGeneral",icon:"fas fa-cogs",label:"config.config"}];return(f,l)=>{const n=o("router-view"),a=o("ModuleConfig");return c(),t(a,{navigations:e},{default:s(()=>[i(n)]),_:1})}}});export{m as default};

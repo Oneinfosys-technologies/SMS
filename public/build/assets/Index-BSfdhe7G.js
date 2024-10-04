@@ -1,0 +1,1 @@
+import{q as t,w as s,r as o,o as c,e as r}from"./app-DCfJDSeM.js";const i={name:"EmployeePayrollConfig"},g=Object.assign(i,{setup(l){const e=[{name:"EmployeePayrollConfigGeneral",icon:"fas fa-cogs",label:"config.config"}];return(_,f)=>{const n=o("router-view"),a=o("ModuleConfig");return c(),t(a,{navigations:e},{default:s(()=>[r(n)]),_:1})}}});export{g as default};

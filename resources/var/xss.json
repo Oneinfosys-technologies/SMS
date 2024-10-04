@@ -1,0 +1,29 @@
+{
+    "api/v1/app/config": [
+        "guest_payment_instruction",
+        "onlin_registration_instruction",
+        "job_application_instruction"
+    ],
+    "api/v1/app/config/mail-templates/*": ["content"],
+    "api/v1/app/utility/todos/*": ["description"],
+    "api/v1/app/utility/todos": ["description"],
+    "api/v1/app/academic/certificate-templates/*": ["content"],
+    "api/v1/app/academic/certificate-templates": ["content"],
+    "api/v1/app/calendar/events/*": ["description"],
+    "api/v1/app/calendar/events": ["description"],
+    "api/v1/app/resource/learning-materials/*": ["description"],
+    "api/v1/app/resource/learning-materials": ["description"],
+    "api/v1/app/resource/assignments/*": ["description"],
+    "api/v1/app/resource/assignments": ["description"],
+    "api/v1/app/communication/announcements/*": ["description"],
+    "api/v1/app/communication/announcements": ["description"],
+    "api/v1/app/communication/emails/*": ["content"],
+    "api/v1/app/communication/emails": ["content"],
+    "api/v1/app/recruitment/vacancies/*": ["description", "responsibility"],
+    "api/v1/app/recruitment/vacancies": ["description", "responsibility"],
+    "api/v1/app/forms/*": ["fields"],
+    "api/v1/app/forms": ["fields"],
+    "api/v1/app/job/vacancies/*/applications": ["cover_letter"],
+    "api/v1/app/activity/trips/*": ["itinerary", "description"],
+    "api/v1/app/discipline/incidents/*": ["description", "action"]
+}

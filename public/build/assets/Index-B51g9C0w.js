@@ -1,0 +1,1 @@
+import{q as a,w as r,r as e,o as c,e as s}from"./app-DCfJDSeM.js";const i={name:"GalleryConfig"},u=Object.assign(i,{setup(_){const o=[{name:"GalleryConfigGeneral",icon:"fas fa-chevron-right",label:"config.config"}];return(l,f)=>{const n=e("router-view"),t=e("ModuleConfig");return c(),a(t,{navigations:o},{default:r(()=>[s(n)]),_:1})}}});export{u as default};

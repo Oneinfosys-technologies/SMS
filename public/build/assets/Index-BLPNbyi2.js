@@ -1,0 +1,1 @@
+import{q as a,w as c,r as e,o as s,e as r}from"./app-DCfJDSeM.js";const i={name:"AcademicConfig"},l=Object.assign(i,{setup(_){const o=[{name:"AcademicConfigSubjectType",icon:"fas fa-chevron-right",label:"calendar.subject.type.type"}];return(p,u)=>{const t=e("router-view"),n=e("ModuleConfig");return s(),a(n,{navigations:o},{default:c(()=>[r(t)]),_:1})}}});export{l as default};
